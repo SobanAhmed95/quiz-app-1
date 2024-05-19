@@ -1,0 +1,17 @@
+body{
+  background-color: #E4E5E5;
+}
+.div1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #144F4C;
+  color: white;
+}
+.div2{
+  background-color: #144F4C;
+  color: white;
+}
+#main2{
+  text-align: center;
+}
